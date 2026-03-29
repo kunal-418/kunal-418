@@ -31,5 +31,5 @@ Task 4: Email Etiquette
 - Created a social media do’s and don’ts checklist
 
 Task 5: Cybercrime Awareness
-- Wrote a case study on phishing attacks
+- Wrote a case study on UPI/Online Payment Fraud
 - Created a prevention checklist for online safety
